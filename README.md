@@ -9,6 +9,7 @@ Controle seu tempo de foco com nossa aplicação, super completa e que fará voc
 ### Tecnologias
 
 - *:fire: ReactJS + Typescript*
+- *:fire: Eslint*
 
 ### Clonando e Rodando
 ```javascript
@@ -20,4 +21,14 @@ Controle seu tempo de foco com nossa aplicação, super completa e que fará voc
 
   // Inicie o servidor
   $ yarn dev
+```
+
+Este projeto utiliza a ferramenta Eslint para validar o código. Será necessário instalar a extensão Eslint
+
+Para que o código se auto corrija ao salvar o arquivo, insira o seguinte código em suas configurações do editor
+### VS Code Configs
+```json
+  "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    }
 ```

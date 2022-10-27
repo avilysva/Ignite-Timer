@@ -1,6 +1,7 @@
+/* eslint-disable @typescript-eslint/no-empty-interface */
 import 'styled-components';
 
-import { defaultTheme } from "../themes/default"
+import { defaultTheme } from '../themes/default';
 
 type ThemeType = typeof defaultTheme
 

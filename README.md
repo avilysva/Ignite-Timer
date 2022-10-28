@@ -10,6 +10,7 @@ Controle seu tempo de foco com nossa aplicação, super completa e que fará voc
 
 - *:fire: ReactJS + Typescript*
 - *:fire: Eslint*
+- *:fire: React Router Dom*
 
 ### Clonando e Rodando
 ```javascript
